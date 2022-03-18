@@ -5,7 +5,7 @@
 &#128241; &nbsp;&nbsp;&nbsp;+7 (9XX)-XXX-XX-XX  
 &#128231; &nbsp;&nbsp;yerolgit@gmail.com  
 &#128490; &nbsp;&nbsp;&nbsp;Discord: 30Owls#8413  
-&#128747; Telegram: https://t.me/Snailsloth  
+&#128747; &nbsp;Telegram: https://t.me/Snailsloth  
 
 
 ---
