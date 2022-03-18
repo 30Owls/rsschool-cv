@@ -4,6 +4,8 @@
 &#127968; &nbsp; Russia, Saint-Petersburg  
 &#128241; &nbsp;&nbsp;&nbsp;+7 (9XX)-XXX-XX-XX  
 &#128231; &nbsp;&nbsp;yerolgit@gmail.com
+:busts_in_silhouette: Discord: 30Owls#8413
+:airplane: Telegram: https://t.me/Snailsloth
 
 ---
 
