@@ -13,9 +13,9 @@
 #### About  
 Hi, my name is Oleg.
 4 years ago I had a short experience as a junior frontend developer.  
-During this time I managed to work with html, css, sass, pug, js(beginner), vue js(beginner), node js(beginner), react(beginner).  
+During this time I managed to work with **html, css, sass, pug, js(beginner), vue js(beginner), node js(beginner), react(beginner)**.  
 Unfortunately the circumstances gone in a way where I had to change what I do for a living.  
-Now I want to get back to basics to remember everything I forget and start my way to become frontend developer.  
+Now I want to get back to basics to refresh everything I forget and start my way to become frontend developer.  
 
 #### Code  
 
@@ -78,7 +78,7 @@ function getResults(body){
 
 * Saint Petersburg State Technological University of Plant Polymers, Department of Logistics
 * RICE Univercity, python-programming-essentials
-* cs50 harvard
+* cs50 Harvard@JavaRush youtube channel  
 * Wes Bos, Lea Verou and other awesome people and their resources\videos
 
 
