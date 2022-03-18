@@ -4,7 +4,7 @@
 &#127968; &nbsp; Russia, Saint-Petersburg  
 &#128241; &nbsp;&nbsp;&nbsp;+7 (9XX)-XXX-XX-XX  
 &#128231; &nbsp;&nbsp;yerolgit@gmail.com  
-&#128490; Discord: 30Owls#8413  
+&#128490; &nbsp;&nbsp;&nbsp;Discord: 30Owls#8413  
 &#128747; Telegram: https://t.me/Snailsloth  
 
 
@@ -79,7 +79,7 @@ function getResults(body){
 * Saint Petersburg State Technological University of Plant Polymers, Department of Logistics
 * RICE Univercity, python-programming-essentials
 * cs50 harvard
-* Wes Bos and other awesome people youtube series
+* Wes Bos, Lea Verou and other awesome people and their resources\videos
 
 
 #### Languages  
