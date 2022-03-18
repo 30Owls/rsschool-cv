@@ -16,7 +16,7 @@ Now I want to get back to basics to remember everything I forget and start my wa
 
 #### Code  
 
-Some old code example from my [old scrapper project](https://github.com/Snailsloth?tab=repositories) 
+Some old code example from my [old github](https://github.com/Snailsloth?tab=repositories) 
 
 <details><summary>> IS RIGHT HERE <</summary>
 <p>
