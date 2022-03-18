@@ -7,14 +7,14 @@
 
 ---
 
-####About  
+#### About  
 Hi, my name is Oleg.
 4 years ago I had a short experience as a junior frontend developer.  
 During this time I managed to work with html, css, sass, pug, js(beginner), vue js(beginner), node js(beginner), react(beginner).  
 Unfortunately the circumstances gone in a way where I had to change what I do for a living.  
 Now I want to get back to basics to remember everything I forget and start my way to become frontend developer.  
 
-####Code  
+#### Code  
 
 Some old code example from my [old scrapper project](https://github.com/Snailsloth?tab=repositories) 
 
@@ -62,7 +62,7 @@ function getResults(body){
 </details>
 
 
-####Languages  
+#### Languages  
 
 Russian: native.  
 English: Pre-Intermediate (That's what the tests says), trying hard to learn atm.
