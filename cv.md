@@ -18,6 +18,15 @@ Now I want to get back to basics to remember everything I forget and start my wa
 
 #### Code  
 
+Codewars sign up code:  
+
+```javascript
+function multiply(a, b){
+  return a * b
+}
+```  
+
+
 Some old code example from my [old github](https://github.com/Snailsloth?tab=repositories) 
 
 <details><summary>> IS RIGHT HERE <</summary>
@@ -62,6 +71,14 @@ function getResults(body){
 
 </p>
 </details>
+
+
+#### Education  
+
+* Saint Petersburg State Technological University of Plant Polymers, Department of Logistics
+* RICE Univercity, python-programming-essentials
+* cs50 harvard
+* Wes Bos and other awesome people youtube series
 
 
 #### Languages  
