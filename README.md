@@ -1,1 +1,1 @@
-https://30Owls.github.io/rsschool-cv/cv
+https://30Owls.github.io/rsschool-cv/
